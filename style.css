@@ -1,0 +1,39 @@
+body {
+    background:#F8E8A6;
+}
+
+h1,p 
+{
+    text-align:center;
+}
+
+img {
+    width: 800px;
+    height:600px;
+    display:block;
+    margin: 0 auto;
+    border: none;
+    border-radius: 5px;
+}
+
+.display {
+    text-align: center;
+}
+
+a {
+    text-align:center;
+    color:#00803B;
+    margin:15px;
+}
+
+a:visited {
+    color:#00803B;
+}
+
+#link {
+    color:#0000EE;
+}
+
+#link:visited {
+    color:#0000EE;
+}
